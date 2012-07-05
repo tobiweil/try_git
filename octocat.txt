@@ -1,1 +1,5 @@
+<<<<<<< ours
 Input 1, 01.01.1970rm
+=======
+A Tale of Two Octocats
+>>>>>>> theirs
